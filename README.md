@@ -40,7 +40,7 @@
 
 ### :fire: Проект по автомазиации API тестирования сервиса reqres.in
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DmitriySaltykov&repo=first API test)](https://github.com/DmitriySaltykov/rest_api_lombok_)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DmitriySaltykov&repo=rest_api_lombok_hw)](https://github.com/DmitriySaltykov/rest_api_lombok_)
 
 
 ### Моя статистика:
