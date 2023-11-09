@@ -36,11 +36,11 @@
 
 ### :fire: Проект по автоматизации UI тестирования сайта SwagLabs
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=egolikov&repo=baucenter-product-autotests)](https://github.com/DmitriySaltykov/hwtestproject)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DmitriySaltykov&repo=baucenter-product-autotests)](https://github.com/DmitriySaltykov/hwtestproject)
 
 ### :fire: Проект по автомазиации API тестирования сервиса reqres.in
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=egolikov&repo=reqresin-product-autotests)](https://github.com/DmitriySaltykov/rest_api_lombok_)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DmitriySaltykov&repo=reqresin-product-autotests)](https://github.com/DmitriySaltykov/rest_api_lombok_)
 
 
 ### Моя статистика:
