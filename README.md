@@ -4,7 +4,7 @@
 
 ### Связь со мной:
 
-  <a href="https://t.me/St_panda">
+  <a href="https://t.me/dimvit58">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 
