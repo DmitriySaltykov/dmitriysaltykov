@@ -39,8 +39,9 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DmitriySaltykov&repo=hwtestproject)](https://github.com/DmitriySaltykov/hwtestproject)
 
 ### :fire: Проект по автомазиации API тестирования сервиса reqres.in
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DmitriySaltykov&repo=rest_api_lombok_hw)]( https://github.com/DmitriySaltykov/rest_api_lombok_hw)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DmitriySaltykov&repo=rest_api_lombok_hw)](https://github.com/DmitriySaltykov/rest_api_lombok_)
+
 
 
 ### Моя статистика:
